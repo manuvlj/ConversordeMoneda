@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Conversor de Moneda</string>
+    <string name="edp">EDP</string>
+    <string name="euro_dolar_peso">Euro - Dolar - Peso</string>
+    <string name="cantidad">Cantidad a convertir</string>
+    <string name="desde">Desde la divisa</string>
+    <string name="a_divisa">A la divisa</string>
+    <string name="convertir">Convertir</string>
+    <string name="resultado">Resultado</string>
+    <string name="cantidad_" />
+    <string name="Nota" />
+    <string-array name="monedas">
+        <item>Seleccione</item>
+        <item>COP</item>
+        <item>Dolar</item>
+        <item>Euro</item>
+    </string-array>
+
+</resources>
